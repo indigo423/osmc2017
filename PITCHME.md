@@ -1,6 +1,4 @@
-![Logo](images/amigav1.3.jpg)
-
----
+---?image=images/amigav1.3.jpg&size=auto 90%
 @title[Introduction]
 # Git<span style="color: #e49436">Pitch</span>
 
