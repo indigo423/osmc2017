@@ -1,3 +1,6 @@
+![Logo](images/amigav.1.3.jpg)
+
+---
 @title[Introduction]
 # Git<span style="color: #e49436">Pitch</span>
 
