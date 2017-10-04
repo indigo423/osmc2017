@@ -1,4 +1,4 @@
-![Logo](images/amigav.1.3.jpg)
+![Logo](images/amigav1.3.jpg)
 
 ---
 @title[Introduction]
