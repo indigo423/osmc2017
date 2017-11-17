@@ -1,12 +1,17 @@
 ---?image=images/amigav1.3.jpg&size=auto 100%
 ---
 @title[Introduction]
-# Git<span style="color: #e49436">Pitch</span>
+# Who Am I
 
-#### Markdown Presentations For Everyone on Git.*
-<br>
-<br>
-<span style="color: #bbb; font-size: 80%">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span style="color:gray; font-size:1.5em;">Ronny Trommer</span>
+
+* 2004 Started using OpenNMS in 2004 (Version 1.28) as my job as system engineer
+* 2006 Worked at an ISP in professional services around monitoring
+* 2008 First Nagios Conference
+* 2010 Co-Author or the book "OpenNMS Netzwerkmanagement mit freier Software"
+* 2010 First time Speaker at OSMC
+* 2011 Scientific assistant at University of Applied Sciences in Fulda worked in research project ENRZET and contributed in the OpenNMS Community
+* 2015 Works full time for The OpenNMS Group in Europe near Stuttgart
 
 ---
 @title[PITCHME.md]
